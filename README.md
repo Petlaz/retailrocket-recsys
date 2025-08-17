@@ -1,4 +1,4 @@
-📦 RetailRocket Recommender System – Realistic e-commerce recommendations using popularity, content, and KNN collaborative filtering.
+## 📦 RetailRocket Recommender System – Realistic e-commerce recommendations using popularity, content, and KNN collaborative filtering.
 
 [![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
