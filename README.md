@@ -72,9 +72,9 @@ Data Processing
 
 Models
 
-- **Popularity:** Simple baseline recommending most popular items
-- **Content-Based:** Item similarity based on precomputed embeddings
-- **Collaborative Filtering:** KNN on user-item sparse matrix, tuned for best performance
+- Popularity:** Simple baseline recommending most popular items
+- Content-Based:** Item similarity based on precomputed embeddings
+- Collaborative Filtering:** KNN on user-item sparse matrix, tuned for best performance
 
 Hyperparameter Tuning
 
@@ -87,7 +87,7 @@ Evaluation Results
 |----------------------------|--------------|-----------|--------|--------|
 | Popularity Baseline         | 0.0015       | 0.0082    | 0.0037 | 0.0053 |
 | Content-Based Filtering     | 0.0002       | 0.0008    | 0.0003 | 0.0005 |
-| KNN Collaborative Filtering| **0.0217**   | **0.1452**|**0.0720**|**0.0950**|
+| KNN Collaborative Filtering | 0.0217       | 0.1452.   |0.0720. |0.0950|
 
 Usage Instructions
 
